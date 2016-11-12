@@ -1,0 +1,50 @@
+#redText {
+	color: red;
+}
+
+#blueText {
+	color: blue;
+}
+
+#greenText {
+	color: green;
+}
+p.big {
+	font-size: 50px;
+}
+
+p.tiny {
+	font-size: 10px;
+}
+
+p.center {
+	text-align: center;
+}
+
+p.thick {
+	font-weight: bold;
+}
+
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.orange {
+	font-weight: bold;
+	color: orange;
+	font-size: 50px;
+}
+
+p.styledFont {
+
+    font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	font-size: 24px;
+	color: blue;
+}
+
+#styledImage {
+	border-style: double;
+    border-width: thick;
+    border-color: red;
+}
